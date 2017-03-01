@@ -411,7 +411,7 @@ table, td {
   }
 
   .nav-picture {
-    background-image: url(/Users/keji/turing/mod1/projects/ka-comp-challenge-3/images/headshot.jpg);
+    background-image: url(../images/headshot.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 100px;
